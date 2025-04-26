@@ -2,7 +2,7 @@
 
 PriceMyCar is a machine learning-based car price prediction tool that estimates the resale value of a car based on key features such as brand, model, year, fuel type, transmission, kilometers driven, and more. This project leverages powerful machine learning algorithms to provide accurate price predictions, helping users make informed decisions when buying or selling cars.
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
 
 Technology             Description
 
@@ -21,7 +21,7 @@ Scikit-learn	        Machine learning algorithms and tools
 Google Colab	        Cloud-based environment for development
 
 
-📦 Libraries Used
+📦 Libraries Used :
 
 pandas       –  Data analysis and manipulation
 
@@ -47,7 +47,7 @@ Edit
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
 
 
-🧠 ML Workflow
+🧠 ML Workflow :
 
 Data Collection     –  The dataset contains car-related features and their prices.
 
@@ -59,7 +59,7 @@ Model Evaluation    – Evaluation metrics like R² Score, Mean Absolute Error (
 
 Price Prediction    – Using the trained model to predict car prices based on user inputs.
 
-🚀 How to Run
+🚀 How to Run :
 
 To run the PriceMyCar notebook in Google Colab:
 
@@ -77,7 +77,7 @@ Evaluate model performance
 
 Make predictions based on user input
 
-Example Usage
+Example Usage :
 
 Here's a sample code snippet to predict a car's price using a trained model:
 
@@ -105,7 +105,7 @@ predicted_price = model.predict(preprocessor.transform(input_df))
 
 print(f"Estimated Car Price: ₹{predicted_price[0]:,.2f}")
 
-📊 Model Performance (Example)
+📊 Model Performance (Example) :
 
 Metric	Value
 
@@ -117,7 +117,7 @@ RMSE	₹68,000
 
 Note: Performance metrics may vary depending on the dataset and model tuning.
 
-📂 Project Structure
+📂 Project Structure :
 
 Copy
 
@@ -140,7 +140,6 @@ PriceMyCar/
 └── README.md
 
 📝 Contributing & Feedback
-
 
 For any queries feel free to reach me out through my sakareyprakash@gmail.com
 
