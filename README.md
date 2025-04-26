@@ -4,8 +4,6 @@ PriceMyCar is a machine learning-based car price prediction tool that estimates 
 
 🛠️ Tech Stack :
 
-Technology        -           Description
-
 Python	          -           Programming language used for the project
 
 Pandas	          -           Data manipulation and analysis
