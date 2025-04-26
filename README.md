@@ -4,21 +4,21 @@ PriceMyCar is a machine learning-based car price prediction tool that estimates 
 
 🛠️ Tech Stack :
 
-Technology             Description
+Technology        -           Description
 
-Python	               Programming language used for the project
+Python	          -           Programming language used for the project
 
-Pandas	                Data manipulation and analysis
+Pandas	          -           Data manipulation and analysis
 
-NumPy	                Numerical operations
+NumPy	          -           Numerical operations
 
-Matplotlib	            Data visualization
+Matplotlib	      -           Data visualization
 
-Seaborn	                Statistical data visualization
+Seaborn           -           Statistical data visualization
 
-Scikit-learn	        Machine learning algorithms and tools
+Scikit-learn      -           Machine learning algorithms and tools
 
-Google Colab	        Cloud-based environment for development
+Google Colab      -           Cloud-based environment for development
 
 
 📦 Libraries Used :
